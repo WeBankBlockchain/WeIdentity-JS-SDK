@@ -1,0 +1,31 @@
+{
+  "name": "weidentityjs-utils-test",
+  "version": "1.0.3",
+  "description": "the js toolkits of weidentity ",
+  "main": "src/WeIdentity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeBankFinTech/WeIdentity-JS-SDK"
+  },
+  "keywords": [
+    "WeIdentity"
+  ],
+  "author": "jiahaohe <jiahaohe@webank.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeBankFinTech/WeIdentity-JS-SDK/issues"
+  },
+  "homepage": "https://github.com/WeBankFinTech/WeIdentity-JS-SDK#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bip39": "^3.0.2",
+    "ethereumjs-wallet": "^1.0.0",
+    "fast-json-stable-stringify": "^2.1.0",
+    "secp256k1": "^4.0.2",
+    "sha3": "^2.1.3",
+    "uuid-random": "^1.3.2"
+  }
+}
