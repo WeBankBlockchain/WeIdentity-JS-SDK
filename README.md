@@ -1,1 +1,1 @@
-# weidentityjs-utils# WeIdentity-JS-SDK
+# WeIdentity-JS-SDK
